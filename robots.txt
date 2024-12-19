@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tiny-department-804179.framer.app/sitemap.xml
